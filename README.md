@@ -1,5 +1,5 @@
 - 👋 Hello, I’m @Ruben2163
-- 👀 I’m interested in Visualising data and artificial intelegence
+- 🙂 Visualising data and artificial intelegence
 - 🌱 I’m currently learning Tensorflow & Matplotlib
 
 <!---
