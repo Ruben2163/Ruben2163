@@ -1,7 +1,7 @@
 -  I’m Ruben Phagura
 -  Artificial Intelegence && Web Development
 -  My technologys: Python, Tensorflow, Pytorch, MatPlotLib, Numpy
--  Im learning Rust and neural networks.
+-  Im learning Rust and neural networks for finance.
 -  Watch my portfolio site rubenphagura.com
 -  You can help by staring a repo 🙂
    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruben2163)
