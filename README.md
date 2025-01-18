@@ -1,4 +1,4 @@
--  I’m Ruben Phagura
+# Ruben Phagura
 -  Artificial Intelegence && Web Development
 -  My technologys: Python, Tensorflow, Pytorch, MatPlotLib, Numpy
 -  Im learning Rust and neural networks for finance.
