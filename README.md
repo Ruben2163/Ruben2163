@@ -1,7 +1,6 @@
 # Ruben Phagura
--  Artificial Intelegence && Web Development.
--  My technologys: Python, Tensorflow, Pytorch, MatPlotLib, Numpy.
--  Im learning Rust and neural networks for finance.
+-  Learning Machine Learning for Finance and some Web Development
+-  My technologys: Python, Tensorflow, ,Keras Pytorch, MatPlotLib, Numpy.
 -  Watch my portfolio site rubenphagura.com
 -  You can help by staring a repo 🙂
 
