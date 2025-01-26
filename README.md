@@ -3,8 +3,8 @@
 -  My technologys: Python, Tensorflow, Keras, Pytorch, MatPlotLib and NumPy.
 
   
-   ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruben2163)
    
+   !(https://github-readme-stats.vercel.app/api?username=ruben2163&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph)
    ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruben2163&layout=compact) 
 
 
