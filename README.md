@@ -1,6 +1,6 @@
 # Ruben Phagura
 -  Learning Machine Learning for Finance and some Web Development
--  My technologys: Python, Tensorflow, Keras, Pytorch, MatPlotLib, Numpy.
+-  My technologys: Python, Tensorflow, Keras, Pytorch, MatPlotLib and Numpy.
 
   
    ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruben2163)
