@@ -17,6 +17,8 @@
   </a>
 </div>
 
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruben2163&theme=github-dark" alt="GitHub Streak" style="max-width: 100%">
+
 ###
 
 <!---
