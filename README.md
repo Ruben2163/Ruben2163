@@ -16,10 +16,9 @@
     <img src="https://img.shields.io/static/v1?message=Website&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website link"  />
   </a>
 </div>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=ruben2163&theme=github-dark" alt="GitHub Streak" style="max-width: 100%">
-
-###
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ruben2163&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+</div>
 
 <!---
 Ruben2163/Ruben2163 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
