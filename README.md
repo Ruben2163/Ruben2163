@@ -1,6 +1,5 @@
 # Ruben Phagura
 -  Learning Machine Learning for Quantative Finance and ML.
--  My technologys: Python, Tensorflow, Keras, Pytorch, MatPlotLib and NumPy.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben2163&layout=compact"/>
