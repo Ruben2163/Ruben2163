@@ -1,16 +1,46 @@
-# Ruben Phagura
--  Learning Machine Learning for Quantative Finance and ML.
+# Ruben Phagura 
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruben2163&layout=compact"/>
-</div>
+Welcome to my GitHub profile. I am a student and developer with a strong interest in programming, economics, and finance. My work involves building data-driven applications, conducting economic research, and designing 3D models.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ruben2163&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+## 🔧 Skills & Tools
 
-<div align="center">
-  <a href="https://rubenphagura.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Website&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="website link"  />
-  </a>
-</div>
+| Category       | Tools & Technologies                     | Focus Areas                          |
+|----------------|------------------------------------------|--------------------------------------|
+| Programming    | Python, R, Pandas, Scikit-learn          | Automation, Machine Learning, Data Visualization |
+| Economics      | ARIMA, GARCH, Statistical Modeling       | Forecasting, Time Series Analysis    |
+| CAD & Design   | Fusion 360, Onshape, Blender             | 3D Modeling, Rendering, Simulations  |
+
+## 📈 Featured Projects
+
+- **[UK Inflation Forecasting](https://rubenphagura-uk-inflation.streamlit.app)**  
+  Developed a Streamlit application utilizing ARIMA and GARCH models to forecast UK inflation trends.  
+  *Technologies:* Python, R, Pandas, Scikit-learn
+
+- **[Stock Market Prediction](https://rubenphagura-market-prediction.streamlit.app)**  
+  Explored the feasibility of accurate stock market forecasting using statistical models.  
+  *Technologies:* Python, Scikit-learn
+
+- **[Mac Pro Cube Concept](https://www.rubenphagura.com/projects/mac-pro-cube/)**  
+  Designed a modern concept of the Power Mac G4 Cube, modeled in Onshape and rendered with Blender.  
+  *Tools:* Onshape, Blender
+
+- **[3D Neural Network Architecture](https://www.rubenphagura.com/projects/3d-networks/)**  
+  Investigated a novel neural network architecture with layers structured in 3D space, implemented in PyTorch.
+
+## 📚 Research Papers
+
+- **[Forecasting UK Inflation with ARIMA and GARCH Models](https://www.rubenphagura.com/rubens-economics/forecasting-uk-inflation/)**  
+  Analyzed the effectiveness of ARIMA and GARCH models in predicting UK inflation trends and volatility.
+
+- **[Exploring the Mathematics of Stock Market Prediction](https://www.rubenphagura.com/rubens-economics/stock-market-prediction/)**  
+  Evaluated whether mathematical or statistical models can reliably predict stock market movements.
+
+## 📬 Contact
+
+- **Website:** [rubenphagura.com](https://rubenphagura.com)
+- **GitHub:** [@ruben2163](https://github.com/ruben2163)
+- **Email:** contact@rubenphagura.com
+
+---
+
+*Note: This README is based on the content available on [rubenphagura.com](https://rubenphagura.com) as of May 2025.*
