@@ -42,5 +42,3 @@ Welcome to my GitHub profile. I am a student and developer with a strong interes
 - **Email:** contact@rubenphagura.com
 
 ---
-
-*Note: This README is based on the content available on [rubenphagura.com](https://rubenphagura.com) as of May 2025.*
