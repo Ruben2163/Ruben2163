@@ -1,6 +1,6 @@
 # Ruben Phagura 
 
-Welcome to my GitHub profile. I am a student and developer with a strong interest in programming, economics, and finance. My work involves building data-driven applications, conducting economic research, and designing 3D models.
+Welcome to my GitHub profile. Iam a student and developer with a strong interest in programming, economics, and finance. My work involves building data-driven applications, conducting economic research, and designing 3D models.
 
 ## 🔧 Skills & Tools
 
