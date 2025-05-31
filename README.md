@@ -1,20 +1,20 @@
 # Ruben Phagura
 
-I'm a student and developer interested in programming, econometrics, and finance. My work focuses on building data-driven tools, conducting research in economics, and developing 3D models and visual concepts.
+I'm a student and developer interested in programming, econometrics, and finance. My projects focuses on creating tools, research in economics, and 3D modelling.
 
 ## Skills & Tools
 
 | Category       | Tools & Technologies                     | Focus Areas                          |
 |----------------|------------------------------------------|--------------------------------------|
-| Programming    | Python, R, Pandas, Scikit-learn          | Automation, Machine Learning, Data Visualization |
+| Programming    | Python, Ocaml          | Automation, Machine Learning, Data Visualization |
 | Economics      | ARIMA, GARCH, Statistical Modeling       | Time Series Analysis, Forecasting    |
-| CAD & Design   | Fusion 360, Onshape, Blender             | 3D Modeling, Rendering, Simulation   |
+| CAD & Design   | Fusion 360, Onshape, Blender             | 3D Modeling, Rendering   |
 
 ## Featured Projects
 
 - **[UK Inflation Forecasting](https://rubenphagura-uk-inflation.streamlit.app)**  
   Streamlit app using ARIMA and GARCH models to forecast UK inflation.  
-  *Python, R, Scikit-learn*
+  *Python, Scikit-learn*
 
 ## Research
 
