@@ -46,6 +46,6 @@ Hi! I'm Ruben, a student and developer passionate about **programming**, **econo
 
 ### 📖 About Me
 
-I’m always looking to learn and grow as a developer and researcher. Whether it’s building tools to solve real-world problems, exploring the intersection of economics and technology, or creating 3D designs, I’m driven by curiosity and a desire to make an impact.
+I’m always looking to learn as a developer and researcher.
 
 Feel free to explore my projects and research, and don’t hesitate to reach out if you’d like to collaborate or discuss ideas!
