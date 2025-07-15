@@ -1,51 +1,51 @@
 # Ruben Phagura
 
-Hi! I'm Ruben, a student and developer passionate about **programming**, **econometrics**, and **finance**. I enjoy building tools, conducting research in economics, and exploring 3D modeling and design.
+Hi! I'm Ruben, a student and developer. **programming**, **econometrics**, and **finance**. I enjoy building tools, conducting research in economics, and exploring 3D modeling and design.
 
 ---
 
-## 🛠️ Skills & Tools
+## Skills
 
-| **Category**   | **Tools & Technologies**                | **Focus Areas**                      |
-|----------------|------------------------------------------|---------------------------------------|
-| Programming    | Python, OCaml                           | Automation, Machine Learning, Data Visualization |
-| Economics      | ARIMA, GARCH, Statistical Modeling       | Time Series Analysis, Forecasting    |
-| CAD & Design   | Fusion 360, Onshape, Blender             | 3D Modeling, Rendering               |
-
----
-
-## 🚀 Featured Projects
-
-- **[Spotify Playlist Downloader](https://github.com/ruben2163/spotify-playlist-downloader)**  
-  A Python-based application that downloads Spotify playlists as `.mp3` files using `yt-dlp` and `ffmpeg`.  
-  *Python, PyQt5, yt-dlp, ffmpeg*
-
-- **[UK Inflation Forecasting](https://rubenphagura-uk-inflation.streamlit.app)**  
-  A Streamlit app that uses ARIMA and GARCH models to forecast UK inflation trends.  
-  *Python, Scikit-learn*
+| Category     | Skills                 | Focus                              |
+| ------------ | ---------------------- | ---------------------------------- |
+| CAD & Design | Fusion 360, Onshape    | 3D modelling, rendering            |
+| Programming  | Python, OCaml          | Automation, machine learning       |
+| Economics    | Statistics, prediction | Forecasting, time series modelling |
 
 ---
 
-## 📊 Research
+## Projects
 
-- **[Forecasting UK Inflation](https://www.rubenphagura.com/rubens-economics/forecasting-uk-inflation/)**  
-  Evaluated ARIMA and GARCH models for predicting inflation and volatility in the UK economy.
-
-- **[Mathematics of Market Prediction](https://www.rubenphagura.com/rubens-economics/stock-market-prediction/)**  
-  Analyzed whether stock markets can be predicted using mathematical and statistical techniques.
+* [**Jane Street's Approach to Cluster Systems**](../rubens-economics/jane-streets-approach-to-cluster-systems/)  
+  An article on Jane Street's innovative use of computational clusters for machine learning and quantitative finance, including their reliance on high-performance GPUs and advanced technologies. | [Read More](../rubens-economics/jane-streets-approach-to-cluster-systems/)
 
 ---
 
-## 🌐 Contact
+* [**Spotify Playlist Downloader**](../projects/spotify-playlist-downloader/) 
+  A PyQt5 application used to download Spotify playlists in MP3  
+  *Python, PyQt5, FFMPEG* | [Code](https://github.com/ruben2163/Spotify-Playlist-Downloader)
 
-- **Website:** [www.rubenphagura.com](https://www.rubenphagura.com)  
-- **GitHub:** [@ruben2163](https://github.com/ruben2163)  
-- **Email:** [contact@rubenphagura.com](mailto:contact@rubenphagura.com)
+More at **[Projects](../projects/)** or **[GitHub](https://github.com/ruben2163?tab=repositories)**  
 
 ---
 
-### 📖 About Me
+## Research Papers
 
-I’m always looking to learn as a developer and researcher.
+* [**Stock Market Prediction**](../rubens-economics/market-prediction/) 
+  Exploring the possibility of accurate market forecasting in the future.  
+  *Scikit-learn, Python* | [Try the App](https://rubenphagura-market-prediction.streamlit.app) | [Code](https://github.com/ruben2163/market-prediction)
 
-Feel free to explore my projects and research, and don’t hesitate to reach out if you’d like to collaborate or discuss ideas!
+---
+
+* [**Forecasting UK Inflation**](../rubens-economics/forecasting-uk-inflation/) 
+  Aiming to predict UK inflation using GARCH models for forecasting CPIH data hosted on a stream-lit app
+  *Python, Pandas, Scikit-learn* | [Try the App](https://rubenphagura-uk-inflation.streamlit.app) | [Code](https://github.com/ruben2163/uk-inflation)
+
+---
+
+## Contact
+
+- **GitHub**: [github.com/ruben2163](https://github.com/ruben2163)  
+- **Email**: [contact@rubenphagura.com](mailto:contact@rubenphagura.com)  
+
+---
