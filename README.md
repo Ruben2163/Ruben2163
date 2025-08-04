@@ -1,6 +1,6 @@
 # Ruben Phagura
 
-Hi! I'm Ruben, a student and developer. **programming**, **econometrics**, and **finance**. I enjoy building tools, conducting research in economics, and exploring 3D modeling and design.
+Hi! I'm Ruben, a student and developer. **programming**, **econometrics**, and **finance**. I enjoy building tools, conducting research in economics, and exploring 3D modeling and design. 
 
 ---
 
